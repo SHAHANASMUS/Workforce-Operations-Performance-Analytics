@@ -1,5 +1,7 @@
 # Workforce & Operations Performance Analytics
 
+![Executive Management Overview](images/executive_overview.png)
+
 An end-to-end Data Analytics project focused on workforce performance, employee engagement, productivity, retention, and business outcomes.
 
 ## Project Overview
