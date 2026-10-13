@@ -128,22 +128,23 @@ Workforce-Operations-Performance-Analytics/
 │   ├── role_kpis_clean.csv
 │   └── business_outcomes_clean.csv
 │
-├── sql/
-│   └── workforce_analysis.sql
-│
-├── python/
-│   └── workforce_eda.ipynb
-│
-├── powerbi/
-│   └── Workforce_Operations_Performance_Analytics.pbix
-│
 ├── images/
 │   ├── executive_overview.png
 │   ├── workforce_performance.png
 │   ├── productivity_operations.png
 │   └── business_outcomes.png
 │
-└── reports/
+├── power bi/
+│   └── Management DA Project.pbix
+│
+├── python/
+│   └── workforce_eda.ipynb
+│
+├── sql/
+│   └── workforce_analysis.sql
+│
+├── .gitignore
+└── README.md
 ```
 
 ## Skills Demonstrated
