@@ -94,14 +94,16 @@ Analyzes:
 
 ## Key Findings
 
-- Store Operations represents the largest workforce segment, followed by Logistics/Warehousing.
-- Overall employee exit rate is approximately **19.88%**.
-- Average sales achievement is approximately **100.06%** against target.
-- Manager evaluation shows a strong positive association with performance.
-- Employee satisfaction and engagement also show a strong positive association.
-- Active employees show higher average performance, satisfaction, and engagement than exited employees in the observed monthly records.
-- Performance varies across tenure, overtime, and training groups, highlighting areas for further management review.
-- Business outcomes should be interpreted within the departments covered by the business-outcomes dataset.
+- **Workforce concentration:** Store Operations is the largest department, representing approximately 40% of the workforce, followed by Logistics/Warehousing at approximately 20%.
+- **Employee retention:** The overall observed employee exit rate is approximately **19.88%**, highlighting retention as an important management area.
+- **Sales performance:** Overall sales achievement is approximately **100.06%** against target, indicating that aggregate sales performance is closely aligned with planned targets.
+- **Performance & management evaluation:** Manager Evaluation has a strong positive association with employee Performance Rating (**correlation ≈ 0.83**).
+- **Engagement & satisfaction:** Employee Satisfaction and Engagement Index show a strong positive association (**correlation ≈ 0.85**).
+- **Active vs exited employees:** Active employees show higher average performance, satisfaction, and engagement than exited employees in the observed monthly records.
+- **Operational patterns:** Performance varies across tenure, overtime, and training groups, providing areas for management to investigate workforce productivity and development.
+- **Business outcomes:** Sales, customer satisfaction, and on-time delivery were analyzed at department and store level to identify operational performance patterns.
+
+> **Note:** These findings describe observed patterns and associations in the available data; they should not be interpreted as proof of causation.
 
 ## Management Recommendations
 
